@@ -1,0 +1,24 @@
+E:\Software Engineering\Software Programs\C#\2.Windows Forms\Roach Applications\1. Roach ChatApp\RoachChat\bin\Debug\RoachChat.exe.config
+E:\Software Engineering\Software Programs\C#\2.Windows Forms\Roach Applications\1. Roach ChatApp\RoachChat\bin\Debug\RoachChat.exe
+E:\Software Engineering\Software Programs\C#\2.Windows Forms\Roach Applications\1. Roach ChatApp\RoachChat\bin\Debug\RoachChat.pdb
+E:\Software Engineering\Software Programs\C#\2.Windows Forms\Roach Applications\1. Roach ChatApp\RoachChat\obj\Debug\RoachChat.csproj.AssemblyReference.cache
+E:\Software Engineering\Software Programs\C#\2.Windows Forms\Roach Applications\1. Roach ChatApp\RoachChat\obj\Debug\RoachChat.Properties.Resources.resources
+E:\Software Engineering\Software Programs\C#\2.Windows Forms\Roach Applications\1. Roach ChatApp\RoachChat\obj\Debug\RoachChat.csproj.GenerateResource.cache
+E:\Software Engineering\Software Programs\C#\2.Windows Forms\Roach Applications\1. Roach ChatApp\RoachChat\obj\Debug\RoachChat.csproj.CoreCompileInputs.cache
+E:\Software Engineering\Software Programs\C#\2.Windows Forms\Roach Applications\1. Roach ChatApp\RoachChat\obj\Debug\RoachChat.exe
+E:\Software Engineering\Software Programs\C#\2.Windows Forms\Roach Applications\1. Roach ChatApp\RoachChat\obj\Debug\RoachChat.pdb
+E:\Software Engineering\Software Programs\C#\2.Windows Forms\Roach Applications\1. Roach ChatApp\RoachChat\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Software Engineering\Software Programs\C#\2.Windows Forms\Roach Applications\1. Roach ChatApp\RoachChat\obj\Debug\RoachChat.Form1.resources
+E:\Software Engineering\Software Programs\C#\2.Windows Forms\Roach Applications\1. Roach ChatApp\RoachChat\obj\Debug\RoachChat.csproj.CopyComplete
+C:\Users\User\Desktop\C#\1. Roach ChatApp\RoachChat\bin\Debug\RoachChat.exe.config
+C:\Users\User\Desktop\C#\1. Roach ChatApp\RoachChat\bin\Debug\RoachChat.exe
+C:\Users\User\Desktop\C#\1. Roach ChatApp\RoachChat\bin\Debug\RoachChat.pdb
+C:\Users\User\Desktop\C#\1. Roach ChatApp\RoachChat\obj\Debug\RoachChat.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\1. Roach ChatApp\RoachChat\obj\Debug\RoachChat.form1.resources
+C:\Users\User\Desktop\C#\1. Roach ChatApp\RoachChat\obj\Debug\RoachChat.Properties.Resources.resources
+C:\Users\User\Desktop\C#\1. Roach ChatApp\RoachChat\obj\Debug\RoachChat.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\1. Roach ChatApp\RoachChat\obj\Debug\RoachChat.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\1. Roach ChatApp\RoachChat\obj\Debug\RoachChat.csproj.CopyComplete
+C:\Users\User\Desktop\C#\1. Roach ChatApp\RoachChat\obj\Debug\RoachChat.exe
+C:\Users\User\Desktop\C#\1. Roach ChatApp\RoachChat\obj\Debug\RoachChat.pdb
+C:\Users\User\Desktop\C#\1. Roach ChatApp\RoachChat\obj\Debug\RoachChat.FormChats.resources
